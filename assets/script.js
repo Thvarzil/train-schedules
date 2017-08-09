@@ -85,6 +85,7 @@ $(document).ready(function () {
 
         var diff = moment.diff(moment(adjustedTime), "minutes");
 
+        var timeMod =
     })
 
 
